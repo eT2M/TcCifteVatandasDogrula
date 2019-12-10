@@ -10,8 +10,3 @@ NVİ Çifte Vatandaş Doğrulama Fonksiyonu
 
 ![](https://fsmtek.com/wp-content/uploads/2019/01/logo.png)
 
-![](https://img.shields.io/github/stars/TcCifteVatandasDogrula/editor.md.svg) 
-![](https://img.shields.io/github/forks/TcCifteVatandasDogrula/editor.md.svg) 
-![](https://img.shields.io/github/tag/TcCifteVatandasDogrula/editor.md.svg) 
-![](https://img.shields.io/github/release/TcCifteVatandasDogrula/editor.md.svg) 
-![](https://img.shields.io/github/issues/TcCifteVatandasDogrula/editor.md.svg) 
