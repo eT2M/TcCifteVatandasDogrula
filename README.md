@@ -2,4 +2,4 @@
 NVİ Çifte Vatandaş Doğrulama Fonksiyonu
 
 ### Kullanımı
-- Fonksiyon Dosyasını İçe Aktarıyoruz. // include "cifteVatandasDogrula.php";
+- Fonksiyon Dosyasını İçe Aktarıyoruz. * include "cifteVatandasDogrula.php";
