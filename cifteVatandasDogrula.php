@@ -20,8 +20,5 @@ function CifteVatandasDogrula($seriNo,$ad,$soyad,$babaAdi,$anneAdi,$dogumYil,$ci
     $gelen = curl_exec($ch);
     curl_close($ch);
     $pa=json_decode($gelen);
-
-    if ($pa->success ==1 or $pa->success==true)
-    { $sonuc=true; } else { $sonuc=false; }
-    return $sonuc;
+    return $pa;
 }
